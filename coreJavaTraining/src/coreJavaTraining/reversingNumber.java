@@ -5,6 +5,11 @@ public class reversingNumber {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		
+		// interview coding
+		
+		
+		
 		//int variable holdeing the value
 		int x = 472318;
 		

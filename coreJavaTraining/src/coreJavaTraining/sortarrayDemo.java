@@ -4,6 +4,9 @@ public class sortarrayDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub лекция 36-37
+		
+		
+		//// interview coding
 
 		int a[] = { 2, 6, 1, 4, 9 };
 		int temp;

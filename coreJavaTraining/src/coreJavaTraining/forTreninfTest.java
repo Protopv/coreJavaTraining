@@ -4,6 +4,11 @@ public class forTreninfTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		
+		// interview coding
+		
+		
 		/*String a = "Good";
 		String b = " ";
 		

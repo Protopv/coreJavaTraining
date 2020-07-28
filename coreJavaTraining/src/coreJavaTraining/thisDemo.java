@@ -1,6 +1,10 @@
 package coreJavaTraining;
 
 public class thisDemo {
+	
+	
+	
+	// interview coding
 
 
 	int a = 2;

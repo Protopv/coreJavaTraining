@@ -8,6 +8,9 @@ public class dateDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub лекция 40
 		
+		
+		//// interview coding
+		
 		Date d= new Date();
 
 		SimpleDateFormat sdf=new SimpleDateFormat("M/d/yyyy");

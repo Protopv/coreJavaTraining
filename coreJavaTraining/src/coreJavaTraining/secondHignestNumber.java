@@ -6,6 +6,11 @@ public class secondHignestNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		
+		// interview coding
+		
+		
 		int largest = 0;
 		int secondLargest = 0;
 		

@@ -4,6 +4,11 @@ public class InterviewMinnumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		
+		// interview coding
+		
+		
 	/*  2  4  5   найти минимум и максимум в этом столбце где минимум
 
 		3  2  10

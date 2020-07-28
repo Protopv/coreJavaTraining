@@ -11,6 +11,11 @@ public class readFromText {
 	public static void main(String[] args) throws FileNotFoundException {
 		// TODO Auto-generated method stub
 		
+		
+		// interview coding
+		
+		
+		
 		File file = new File("src/coreJavaTraining/sampleTest.txt");
 		
 		BufferedReader br = new BufferedReader(new FileReader(file));

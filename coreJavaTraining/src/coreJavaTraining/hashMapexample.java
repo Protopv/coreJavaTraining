@@ -11,6 +11,9 @@ public class hashMapexample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		
+		// interview coding
+		
 		HashMap<Integer,String> hm=new HashMap<Integer,String>();
 		hm.put(0, "hello");
 		hm.put(1, "Gudbye");
